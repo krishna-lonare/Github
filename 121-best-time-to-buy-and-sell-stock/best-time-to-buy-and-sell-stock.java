@@ -28,7 +28,7 @@ class Solution {
 // for(int price : prices)
 // {
 //      minprice = Math.min(minprice , price);
-//      maxprofit = Math.max(maxprice, price-maxprice); 
+//      maxprofit = Math.max(maxprofit, price-maxprice); 
 // }
-//  return maxprice;
+//  return maxprofit;
 // } }
