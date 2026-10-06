@@ -22,3 +22,13 @@ class Solution {
         return maxprofit;
     }
 }
+// another version with advanced for loop and math.max , math.min method.
+// int minprice = Interger.MAX_VALUE;
+// int maxprofit = 0;
+// for(int price : prices)
+// {
+//      minprice = Math.min(minprice , price);
+//      maxprofit = Math.max(maxprice, price-maxprice); 
+// }
+//  return maxprice;
+// } }
